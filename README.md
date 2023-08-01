@@ -8,9 +8,9 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [Built with](#built-with)
+  
+  
 
 - [Author](#author)
 
@@ -40,9 +40,7 @@ Users should be able to:
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## My process
-
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
